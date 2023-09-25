@@ -1,5 +1,5 @@
 git init
-
+======================================================
 // one time if u just started working on git
 git config --global user.email ""
 
