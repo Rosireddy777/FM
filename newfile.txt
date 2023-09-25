@@ -1,5 +1,7 @@
-ugedueg
-njdsbu
+https://github.com/Rosireddy777/FM.git
 
+https://Rosireddy777@github.com/Rosireddy777/FM.git
 
-bdhkdgyuf
+git remote set-url origin https://Rosireddy777@github.com/Rosireddy777/FM.git
+
+git remote add origin https://Rosireddy777@github.com/Rosireddy777/FM.git
