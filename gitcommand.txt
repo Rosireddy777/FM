@@ -1,0 +1,23 @@
+git init
+
+// one time if u just started working on git
+git config --global user.email ""
+
+git config --global user.name ""
+
+git add filename
+
+git commit -m""
+
+//do only first time 
+
+git remote add origin https://Rosireddy777@github.com/Rosireddy777/FM.git
+
+or
+
+git remote set-url origin https://Rosireddy777@github.com/Rosireddy777/FM.git
+
+git push
+
+==============================================================
+git pull
